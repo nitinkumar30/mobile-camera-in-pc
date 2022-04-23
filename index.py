@@ -4,7 +4,7 @@ import numpy as np
 url = "ip_address_here/video"  # Put IP Address you got from application
 cp = cv2.VideoCapture(url)
 while True:
-    ret, frame = cp.read()
+    ret, frame = cap.read()
     if frame is not None:
         cv2.imshow("frame", frame)
     q = cv2.waitKey(1)
