@@ -18,6 +18,10 @@
 https://user-images.githubusercontent.com/40369168/164968727-a635abeb-3009-407d-b2e0-b5b2841782b2.mp4
 
 
+![use_camera_using_mobile](https://user-images.githubusercontent.com/40369168/164969000-f49052c0-a009-4f7e-acdb-835d058793b7.gif)
+
+
+
 # Author
 
 [Nitin Kumar](https://linkedin.com/in/nitin30kumar/)
